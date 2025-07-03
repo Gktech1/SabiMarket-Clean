@@ -1,0 +1,10 @@
+﻿# Firebase credentials
+SabiMarket.API/wwwroot/firebase/
+**/*firebase*.json
+*.json
+.env
+.env.*
+appsettings.Production.json
+bin/
+obj/
+.vs/
