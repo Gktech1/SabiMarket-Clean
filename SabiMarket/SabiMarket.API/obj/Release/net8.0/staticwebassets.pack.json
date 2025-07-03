@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kunle\\OneDrive\\Desktop\\Project\\SabiMarket\\SabiMarket\\SabiMarket.API\\wwwroot\\firebase\\sabimarket-12443-firebase-adminsdk-fbsvc-b26a33d1ba.json",
+      "PackagePath": "staticwebassets\\firebase\\sabimarket-12443-firebase-adminsdk-fbsvc-b26a33d1ba.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.SabiMarket.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.SabiMarket.API.props",
+      "PackagePath": "build\\SabiMarket.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SabiMarket.API.props",
+      "PackagePath": "buildMultiTargeting\\SabiMarket.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.SabiMarket.API.props",
+      "PackagePath": "buildTransitive\\SabiMarket.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

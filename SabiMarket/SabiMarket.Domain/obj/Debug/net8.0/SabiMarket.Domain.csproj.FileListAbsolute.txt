@@ -1,0 +1,15 @@
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\bin\Debug\net8.0\SabiMarket.Domain.deps.json
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\bin\Debug\net8.0\SabiMarket.Domain.runtimeconfig.json
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\bin\Debug\net8.0\SabiMarket.Domain.dll
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\bin\Debug\net8.0\SabiMarket.Domain.pdb
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\obj\Debug\net8.0\SabiMarket.Domain.csproj.AssemblyReference.cache
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\obj\Debug\net8.0\SabiMarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\obj\Debug\net8.0\SabiMarket.Domain.AssemblyInfoInputs.cache
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\obj\Debug\net8.0\SabiMarket.Domain.AssemblyInfo.cs
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\obj\Debug\net8.0\SabiMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\obj\Debug\net8.0\SabiMarket.Domain.sourcelink.json
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\obj\Debug\net8.0\SabiMarket.Domain.dll
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\obj\Debug\net8.0\refint\SabiMarket.Domain.dll
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\obj\Debug\net8.0\SabiMarket.Domain.pdb
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\obj\Debug\net8.0\SabiMarket.Domain.genruntimeconfig.cache
+C:\Users\kunle\OneDrive\Desktop\Project\SabiMarket\SabiMarket\SabiMarket.Domain\obj\Debug\net8.0\ref\SabiMarket.Domain.dll

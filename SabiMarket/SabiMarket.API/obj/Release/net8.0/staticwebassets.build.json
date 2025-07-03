@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "XZZAtxeaFP/MWcAlWcVpcP07YMi4sB1iWYPYxh1OMnI=",
+  "Source": "SabiMarket.API",
+  "BasePath": "_content/SabiMarket.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SabiMarket.API\\wwwroot",
+      "Source": "SabiMarket.API",
+      "ContentRoot": "C:\\Users\\kunle\\OneDrive\\Desktop\\Project\\SabiMarket\\SabiMarket\\SabiMarket.API\\wwwroot\\",
+      "BasePath": "_content/SabiMarket.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kunle\\OneDrive\\Desktop\\Project\\SabiMarket\\SabiMarket\\SabiMarket.API\\wwwroot\\firebase\\sabimarket-12443-firebase-adminsdk-fbsvc-b26a33d1ba.json",
+      "SourceId": "SabiMarket.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kunle\\OneDrive\\Desktop\\Project\\SabiMarket\\SabiMarket\\SabiMarket.API\\wwwroot\\",
+      "BasePath": "_content/SabiMarket.API",
+      "RelativePath": "firebase/sabimarket-12443-firebase-adminsdk-fbsvc-b26a33d1ba.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\firebase\\sabimarket-12443-firebase-adminsdk-fbsvc-b26a33d1ba.json"
+    }
+  ]
+}
